@@ -15,8 +15,11 @@
     },
     methods:{
       /* 修改多选值 */
-      setCheckboxValue(obj,fieldId,value){
+      setCheckboxValue(obj,fieldId,id,value){
         obj[fieldId] = value.join(',')
+        if(this[`change${id}`]){
+         this[`change${id}`]()
+        }
       }
     }
   }

@@ -72,7 +72,9 @@
     :disabled="controlProperties.vaeba9f0a75d4458a8f34113cf3f956b1.disabled"
     class="Text"	
     :custom-style="customStyle('aeba9f0a75d4458a8f34113cf3f956b1')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vaeba9f0a75d4458a8f34113cf3f956b1')"
     >
 
@@ -146,7 +148,9 @@
     :disabled="controlProperties.vaaf1c5d0f06a4134ae327b69f53365c0.disabled"
     class="Text"	
     :custom-style="customStyle('aaf1c5d0f06a4134ae327b69f53365c0')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vaaf1c5d0f06a4134ae327b69f53365c0')"
     >
 
@@ -220,7 +224,9 @@
     :disabled="controlProperties.v7d74afa7e4764313b1ca6412a25455fd.disabled"
     class="Text"	
     :custom-style="customStyle('7d74afa7e4764313b1ca6412a25455fd')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v7d74afa7e4764313b1ca6412a25455fd')"
     >
 
@@ -287,7 +293,9 @@
     :disabled="controlProperties.v655cebc06e004639925317c727132309.disabled"
     class="Text"	
     :custom-style="customStyle('655cebc06e004639925317c727132309')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v655cebc06e004639925317c727132309')"
     >
 
@@ -361,7 +369,9 @@
     :disabled="controlProperties.v8248043df7f84e5586a92610a4c76934.disabled"
     class="Text"	
     :custom-style="customStyle('8248043df7f84e5586a92610a4c76934')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v8248043df7f84e5586a92610a4c76934')"
     >
 
@@ -514,7 +524,9 @@
     :disabled="controlProperties.vd480601b42884b3bb1bd50060076f724.disabled"
     class="Text"	
     :custom-style="customStyle('d480601b42884b3bb1bd50060076f724')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vd480601b42884b3bb1bd50060076f724')"
     >
 
@@ -814,35 +826,45 @@
           main_form: {
             content:[
                 
+                
                   {
                     table_column: "userName",
                     value: this.controlProperties.vd9dec48eac044f7ba8ec14c977809b38.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "telephone",
                     value: this.controlProperties.v2eb613907f0443998be90fcdfa261904.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "entryTime",
                     value: this.controlProperties.v5f0db18eb5f843f2bacd53b33692fb67.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "idNumber",
                     value: this.controlProperties.vd2c0cd8a2d0a4d388069181399be06c9.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "address",
                     value: this.controlProperties.v5d5313ce9c4d422c87acdcfafc3a175e.value,
                     paramSourceType: 3
                   },
+                  
                 
             ],
             where: {

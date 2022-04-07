@@ -74,7 +74,9 @@
     :disabled="controlProperties.vf3739038383444f090b370d70c63d615.disabled"
     class="Text"	
     :custom-style="customStyle('f3739038383444f090b370d70c63d615')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vf3739038383444f090b370d70c63d615')"
     >
 
@@ -125,7 +127,9 @@
     :disabled="controlProperties.veda9a22b395b413cbdce100268aa24d2.disabled"
     class="Text"	
     :custom-style="customStyle('eda9a22b395b413cbdce100268aa24d2')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('veda9a22b395b413cbdce100268aa24d2')"
     >
 
@@ -270,7 +274,9 @@
     :disabled="controlProperties.v09b5fb90b26f440d9464af78edace935.disabled"
     class="Text"	
     :custom-style="customStyle('09b5fb90b26f440d9464af78edace935')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v09b5fb90b26f440d9464af78edace935')"
     >
 
@@ -344,7 +350,9 @@
     :disabled="controlProperties.vb661dd1e8d0840d1a0e1b185678f5800.disabled"
     class="Text"	
     :custom-style="customStyle('b661dd1e8d0840d1a0e1b185678f5800')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vb661dd1e8d0840d1a0e1b185678f5800')"
     >
 
@@ -371,8 +379,7 @@
   
   <a-checkbox-group 
    :custom-style="customStyle('91aad2eda64a44baa943624a63d904ce')"
-   
-    class="Checkbox"@change="setCheckboxValue(controlProperties.v91aad2eda64a44baa943624a63d904ce,'value',$event)"
+    class="Checkbox"@change="setCheckboxValue(controlProperties.v91aad2eda64a44baa943624a63d904ce,'value','91aad2eda64a44baa943624a63d904ce',$event)"
 			:value="checkboxValue(controlProperties.v91aad2eda64a44baa943624a63d904ce.value)":disabled="controlProperties.v91aad2eda64a44baa943624a63d904ce.disabled"
     >
 
@@ -543,6 +550,9 @@ this.setWhere(where.where)
       this.controlProperties[`v${uuid}`].dataSourceList = resultData;
 
     
+
+
+     
 
 
 
@@ -734,6 +744,9 @@ this.setWhere(where.where)
     
 
 
+     
+
+
 
   })
 
@@ -772,17 +785,21 @@ this.setWhere(where.where)
           main_form: {
             content:[
                 
+                
                   {
                     table_column: "role_name",
                     value: this.controlProperties.v6cf7f47e641f4fa7a3f297735a12063f.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "uvsv_boig",
                     value: this.controlProperties.v91aad2eda64a44baa943624a63d904ce.value,
                     paramSourceType: 3
                   },
+                  
                 
             ],
             where: {

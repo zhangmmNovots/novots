@@ -74,7 +74,9 @@
     :disabled="controlProperties.v194c248c1f9a43fbb34da1e3179af322.disabled"
     class="Text"	
     :custom-style="customStyle('194c248c1f9a43fbb34da1e3179af322')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v194c248c1f9a43fbb34da1e3179af322')"
     >
 
@@ -125,7 +127,9 @@
     :disabled="controlProperties.v7d333b38c27a4482872ea1b7cbb025fd.disabled"
     class="Text"	
     :custom-style="customStyle('7d333b38c27a4482872ea1b7cbb025fd')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v7d333b38c27a4482872ea1b7cbb025fd')"
     >
 
@@ -270,7 +274,9 @@
     :disabled="controlProperties.v6213624a35c34e0e9a1056a202aaec98.disabled"
     class="Text"	
     :custom-style="customStyle('6213624a35c34e0e9a1056a202aaec98')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v6213624a35c34e0e9a1056a202aaec98')"
     >
 
@@ -344,7 +350,9 @@
     :disabled="controlProperties.vd3c50d0d552d4440b818937e453213ac.disabled"
     class="Text"	
     :custom-style="customStyle('d3c50d0d552d4440b818937e453213ac')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vd3c50d0d552d4440b818937e453213ac')"
     >
 
@@ -539,6 +547,9 @@ this.setWhere(where.where)
     
 
 
+     
+
+
 
   })
 
@@ -727,6 +738,9 @@ this.setWhere(where.where)
     
 
 
+     
+
+
 
   })
 
@@ -765,17 +779,21 @@ this.setWhere(where.where)
           main_form: {
             content:[
                 
+                
                   {
                     table_column: "userName",
                     value: this.controlProperties.v4c6f02280a8943e78c644b39c4e8eb5b.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "uvsv_mzvr",
                     value: this.controlProperties.v9f8702c032ea4ce5a014a897b672465d.value,
                     paramSourceType: 3
                   },
+                  
                 
             ],
             where: {

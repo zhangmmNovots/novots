@@ -29,7 +29,9 @@
     :disabled="controlProperties.va2f41d48a12c4a5aab7eafdd1d698e00.disabled"
     class="Text"	
     :custom-style="customStyle('a2f41d48a12c4a5aab7eafdd1d698e00')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('va2f41d48a12c4a5aab7eafdd1d698e00')"
     >
 
@@ -157,7 +159,9 @@
     :disabled="controlProperties.v6c4c594c75404e2fbcd8ebd02b4cd63c.disabled"
     class="Text"	
     :custom-style="customStyle('6c4c594c75404e2fbcd8ebd02b4cd63c')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v6c4c594c75404e2fbcd8ebd02b4cd63c')"
     >
 
@@ -208,7 +212,9 @@
     :disabled="controlProperties.v92b6c508ce0948ad93630ff9aab866fc.disabled"
     class="Text"	
     :custom-style="customStyle('92b6c508ce0948ad93630ff9aab866fc')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v92b6c508ce0948ad93630ff9aab866fc')"
     >
 
@@ -259,7 +265,9 @@
     :disabled="controlProperties.vd03705a2d3ea45098da1034f4972bb9f.disabled"
     class="Text"	
     :custom-style="customStyle('d03705a2d3ea45098da1034f4972bb9f')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vd03705a2d3ea45098da1034f4972bb9f')"
     >
 
@@ -310,7 +318,9 @@
     :disabled="controlProperties.v9e4124f0fb4e48a9b5e60dc069501bfe.disabled"
     class="Text"	
     :custom-style="customStyle('9e4124f0fb4e48a9b5e60dc069501bfe')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v9e4124f0fb4e48a9b5e60dc069501bfe')"
     >
 
@@ -361,7 +371,9 @@
     :disabled="controlProperties.vf9d24fa8d0c54f38b9955aeaf6f44a1e.disabled"
     class="Text"	
     :custom-style="customStyle('f9d24fa8d0c54f38b9955aeaf6f44a1e')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vf9d24fa8d0c54f38b9955aeaf6f44a1e')"
     >
 
@@ -502,7 +514,9 @@
     :disabled="controlProperties.v93a81801593a42b8bbfd2828a1d44836.disabled"
     class="Text"	
     :custom-style="customStyle('93a81801593a42b8bbfd2828a1d44836')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v93a81801593a42b8bbfd2828a1d44836')"
     >
 
@@ -682,6 +696,9 @@ this.setWhere(where.where)
       this.controlProperties[`v${uuid}`].dataSourceList = resultData;
 
     
+
+
+     
 
 
 

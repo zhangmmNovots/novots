@@ -58,7 +58,9 @@
   <h3
     class="Title Title_H4"
     :custom-style="customStyle('33e6eed8b28241a9a5c7152be831f7c1')"
+     
     :style='{"-webkit-line-clamp":1}'
+    
     
      
      :class="classStyle('v33e6eed8b28241a9a5c7152be831f7c1')"
@@ -83,7 +85,9 @@
     :disabled="controlProperties.v4bd409890a5f474eb8092c5273211175.disabled"
     class="Text"	
     :custom-style="customStyle('4bd409890a5f474eb8092c5273211175')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v4bd409890a5f474eb8092c5273211175')"
     >
 
@@ -152,7 +156,9 @@
     :disabled="controlProperties.v38610947721b46a0b2cebb46a452d9f7.disabled"
     class="Text"	
     :custom-style="customStyle('38610947721b46a0b2cebb46a452d9f7')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v38610947721b46a0b2cebb46a452d9f7')"
     >
 
@@ -209,7 +215,9 @@
     :disabled="controlProperties.v1d6bff9c9ffa4679966fed115f28db19.disabled"
     class="Text"	
     :custom-style="customStyle('1d6bff9c9ffa4679966fed115f28db19')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v1d6bff9c9ffa4679966fed115f28db19')"
     >
 

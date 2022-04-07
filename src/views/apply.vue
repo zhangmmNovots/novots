@@ -44,7 +44,9 @@
     :disabled="controlProperties.v3f21acc170984582a17e4ba475213e8d.disabled"
     class="Text"	
     :custom-style="customStyle('3f21acc170984582a17e4ba475213e8d')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v3f21acc170984582a17e4ba475213e8d')"
     >
 
@@ -327,7 +329,9 @@
     :disabled="controlProperties.v0f9ea56a0acd4f6da95025ab339c2134.disabled"
     class="Text"	
     :custom-style="customStyle('0f9ea56a0acd4f6da95025ab339c2134')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v0f9ea56a0acd4f6da95025ab339c2134')"
     >
 
@@ -378,7 +382,9 @@
     :disabled="controlProperties.v89ee99d0ea22419ea930256460f4bb95.disabled"
     class="Text"	
     :custom-style="customStyle('89ee99d0ea22419ea930256460f4bb95')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v89ee99d0ea22419ea930256460f4bb95')"
     >
 
@@ -429,7 +435,9 @@
     :disabled="controlProperties.v5968478adcb44be88cbbf98494f837fe.disabled"
     class="Text"	
     :custom-style="customStyle('5968478adcb44be88cbbf98494f837fe')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v5968478adcb44be88cbbf98494f837fe')"
     >
 
@@ -480,7 +488,9 @@
     :disabled="controlProperties.vb4af04a367664e8a9c1bb51ac0c13053.disabled"
     class="Text"	
     :custom-style="customStyle('b4af04a367664e8a9c1bb51ac0c13053')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vb4af04a367664e8a9c1bb51ac0c13053')"
     >
 
@@ -522,7 +532,9 @@
     :disabled="controlProperties.v33e53b0a13d24c5bb91d970303b53f2f.disabled"
     class="Text"	
     :custom-style="customStyle('33e53b0a13d24c5bb91d970303b53f2f')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v33e53b0a13d24c5bb91d970303b53f2f')"
     >
 
@@ -601,7 +613,9 @@
     :disabled="controlProperties.v89e6c55c012d4b07a190c89b4762d661.disabled"
     class="Text"	
     :custom-style="customStyle('89e6c55c012d4b07a190c89b4762d661')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v89e6c55c012d4b07a190c89b4762d661')"
     >
 
@@ -675,7 +689,9 @@
     :disabled="controlProperties.v23831a891f2f49558138b999cb55c62c.disabled"
     class="Text"	
     :custom-style="customStyle('23831a891f2f49558138b999cb55c62c')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v23831a891f2f49558138b999cb55c62c')"
     >
 
@@ -742,7 +758,9 @@
     :disabled="controlProperties.vd3b78c90a52a4b279a71c8f178793e63.disabled"
     class="Text"	
     :custom-style="customStyle('d3b78c90a52a4b279a71c8f178793e63')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vd3b78c90a52a4b279a71c8f178793e63')"
     >
 
@@ -820,7 +838,9 @@
     :disabled="controlProperties.v4d4072dd22ab41b4b045aa41f6e3b183.disabled"
     class="Text"	
     :custom-style="customStyle('4d4072dd22ab41b4b045aa41f6e3b183')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v4d4072dd22ab41b4b045aa41f6e3b183')"
     >
 
@@ -958,7 +978,9 @@
     :disabled="controlProperties.v0b53911caa464c2e9f148de85fb0abba.disabled"
     class="Text"	
     :custom-style="customStyle('0b53911caa464c2e9f148de85fb0abba')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v0b53911caa464c2e9f148de85fb0abba')"
     >
 
@@ -1032,7 +1054,9 @@
     :disabled="controlProperties.v317b711e4a1141829a9b4f1593cdb33d.disabled"
     class="Text"	
     :custom-style="customStyle('317b711e4a1141829a9b4f1593cdb33d')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('v317b711e4a1141829a9b4f1593cdb33d')"
     >
 
@@ -1099,7 +1123,9 @@
     :disabled="controlProperties.vd3347ab43aae49ceb02849712ad71e25.disabled"
     class="Text"	
     :custom-style="customStyle('d3347ab43aae49ceb02849712ad71e25')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vd3347ab43aae49ceb02849712ad71e25')"
     >
 
@@ -1177,7 +1203,9 @@
     :disabled="controlProperties.vcdef8cf554ff4cea914581ef17ca81e7.disabled"
     class="Text"	
     :custom-style="customStyle('cdef8cf554ff4cea914581ef17ca81e7')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vcdef8cf554ff4cea914581ef17ca81e7')"
     >
 
@@ -1349,7 +1377,9 @@
     :disabled="controlProperties.vfd278721b63e40009ba171578176998f.disabled"
     class="Text"	
     :custom-style="customStyle('fd278721b63e40009ba171578176998f')"
+    
     :style='{"-webkit-line-clamp":1}'
+    
     :class="classStyle('vfd278721b63e40009ba171578176998f')"
     >
 
@@ -1590,6 +1620,9 @@ this.setWhere(where.where)
     
 
 
+     
+
+
 
   })
 
@@ -1679,6 +1712,9 @@ this.setWhere(where.where)
       this.controlProperties[`v${uuid}`].dataSourceList = resultData;
 
     
+
+
+     
 
 
 
@@ -1893,6 +1929,9 @@ this.setWhere(where.where)
     
 
 
+     
+
+
 
   })
 
@@ -1942,6 +1981,9 @@ this.setWhere(where.where)
       this.controlProperties[`v${uuid}`].dataSourceList = result.resultData;
 
     
+
+
+     
 
 
 
@@ -2083,6 +2125,9 @@ this.setWhere(where.where)
     
 
 
+     
+
+
 
   })
 
@@ -2132,6 +2177,9 @@ this.setWhere(where.where)
       this.controlProperties[`v${uuid}`].dataSourceList = result.resultData;
 
     
+
+
+     
 
 
 
@@ -2220,29 +2268,37 @@ this.setWhere(where.where)
           main_form: {
             content:[
                 
+                
                   {
                     table_column: "fee",
                     value: this.controlProperties.v1cfaa86651d84867a74d52ebfcd7e901.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "month",
                     value: this.controlProperties.v66660d86f2044bfd88a80f2c8b28cf1e.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "uvsv_dzsp",
                     value: this.controlProperties.vf8495da4bfc442a980705bd2111dc760.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "uvsv_psey",
                     value: this.controlProperties.v4cff96e001fe4079a5cf6d6ff9d168be.value,
                     paramSourceType: 3
                   },
+                  
                 
             ],
             where: {
@@ -2341,29 +2397,37 @@ this.setWhere(where.where)
           main_form: {
             content:[
                 
+                
                   {
                     table_column: "fee",
                     value: this.controlProperties.v1cfaa86651d84867a74d52ebfcd7e901.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "month",
                     value: this.controlProperties.v66660d86f2044bfd88a80f2c8b28cf1e.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "uvsv_dzsp",
                     value: this.controlProperties.vf8495da4bfc442a980705bd2111dc760.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "uvsv_psey",
                     value: this.controlProperties.v4cff96e001fe4079a5cf6d6ff9d168be.value,
                     paramSourceType: 3
                   },
+                  
                 
             ],
             where: {
@@ -2462,29 +2526,37 @@ this.setWhere(where.where)
           main_form: {
             content:[
                 
+                
                   {
                     table_column: "fee",
                     value: this.controlProperties.v00167aba3cea48d49a671190fde9d387.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "month",
                     value: this.controlProperties.vfe1e37731923459cac53bc4ab44098f9.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "uvsv_dzsp",
                     value: this.controlProperties.vd0a47be54f964bfa9aa74e82fca72676.value,
                     paramSourceType: 3
                   },
+                  
+                
                 
                   {
                     table_column: "uvsv_psey",
                     value: this.controlProperties.v8a8f2aa8fea9474a8373451917ac531d.value,
                     paramSourceType: 3
                   },
+                  
                 
             ],
             where: {
